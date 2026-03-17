@@ -1,0 +1,3 @@
+Aaj me test karne ke liye yah file bana raha hu ki kis tarike se me kisi ke bhi
+laptop ya khas kar college ke lab computer par me portable git ko apne pandrive 
+leja kar bina permission ke bhi git install / chala sakta hu.
